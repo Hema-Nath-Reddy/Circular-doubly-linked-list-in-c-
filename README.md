@@ -1,1 +1,1 @@
-# Circular-doubly-linked-list-in-c-
+This is an example implementation of circular doubly linked list and its operations in c++.
